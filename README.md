@@ -11,7 +11,7 @@
 
 <br />
 
-A blazing-fast, multi-threaded Discord username checker with proxy rotation, pattern generation, session auto-save, and Discord webhook alerts — all wrapped in a sleek dark terminal UI.
+A blazing-fast, multi-threaded Discord username checker with proxy rotation, pattern generation, session auto-save, and Discord webhook alerts
 
 <br />
 
