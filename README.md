@@ -76,7 +76,7 @@ EnzoChecker/
 
 ```bash
 # Clone the repository
-git clone https://github.com/EnzoDevs/EnzoChecker.git
+git clone https://github.com/EnzoNotNice/EnzoChecker.git
 cd EnzoChecker
 
 # Install dependencies
@@ -216,6 +216,6 @@ This tool is provided for **educational and research purposes only**. Use respon
 
 <div align="center">
 
-**Built with 🖤 by [Enzo](https://github.com/EnzoDevs)**
+**Built by [Enzo](https://github.com/EnzoNotNice)**
 
 </div>
