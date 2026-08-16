@@ -1,0 +1,23 @@
+# Put custom usernames/words to check here, one per line
+# Lines starting with # are ignored
+enzo
+devil
+ghost
+shadow
+vamp
+cyber
+frost
+venom
+reaper
+toxic
+blade
+pulse
+phantom
+blaze
+viper
+chaos
+havoc
+matrix
+nitro
+zenith
+fuckalgorithms
